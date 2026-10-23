@@ -1,0 +1,1 @@
+export default function NotFound() { return <main className="shell section not-found"><h1>This path ends here.</h1><p>The page you were looking for is not part of the current system.</p><a className="hero-cta hero-cta-primary" href="/">Return to the portfolio <span aria-hidden="true">↗</span></a></main>; }
